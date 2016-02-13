@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/listitem_padding_left">
+
+    <TextView
+        android:id="@+id/tv_ssid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_title"
+        android:textSize="@dimen/text_48"
+        android:layout_marginTop="@dimen/listitem_ssid_margin_top"
+        android:layout_marginBottom="@dimen/listitem_ssid_margin_bottom" />
+
+    <TextView
+        android:id="@+id/tv_key"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_detail"
+        android:textSize="@dimen/text_36"
+        android:layout_marginBottom="@dimen/listitem_key_margin_bottom" />
+
+</LinearLayout>

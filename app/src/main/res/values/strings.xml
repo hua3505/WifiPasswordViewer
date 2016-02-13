@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wifi密码查看器</string>
+    <string name="no_password">没有密码</string>
+</resources>

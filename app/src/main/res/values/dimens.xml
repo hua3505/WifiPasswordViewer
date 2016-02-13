@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 字体 -->
+    <dimen name="text_48">16sp</dimen>
+    <dimen name="text_36">12sp</dimen>
+
+    <dimen name="listitem_padding_left">20dp</dimen>
+    <dimen name="listitem_ssid_margin_top">15dp</dimen>
+    <dimen name="listitem_ssid_margin_bottom">10dp</dimen>
+    <dimen name="listitem_key_margin_bottom">15dp</dimen>
+</resources>
